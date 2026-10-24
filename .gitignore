@@ -1,0 +1,12 @@
+# 系统与编辑器杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+*~
+
+# 本地私货
+notes.local.md
